@@ -1,0 +1,11 @@
+{
+  "name": "hectors_portfolio",
+  "version": "1.0.0",
+  "description": "This is a site that will act as my main portfolio as a web developer",
+  "main": "script.js",
+  "scripts": {
+    "comp:scss": "node-sass style/main.scss style/style.css"
+  },
+  "author": "Hector Gonzalez",
+  "license": "ISC"
+}
